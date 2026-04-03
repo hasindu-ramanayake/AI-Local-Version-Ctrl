@@ -25,7 +25,7 @@ pip install .
 ```
 
 ### Option B: Standalone Binaries
-Head over to the [Releases] https://github.com/hasindu-ramanayake/releases) page and download the auto-compiled executable for Windows, Linux, or macOS to run it entirely detached from a Python footprint!
+working on: Head over to the [Releases] page and download the auto-compiled executable for Windows, Linux, or macOS to run it entirely detached from a Python footprint!
 
 ## 💻 Quick Usage Guide
 
