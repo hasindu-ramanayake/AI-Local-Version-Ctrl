@@ -17,7 +17,7 @@ This tool provides ultimate distribution flexibility.
 ### Option A: Python (`pip`)
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-changelist.git
+git clone https://github.com/hasindu-ramanayake/AI-Local-Version-Ctrl.git
 cd ai-changelist
 
 # Install the global 'ai-cl' CLI tool using pip
@@ -25,7 +25,7 @@ pip install .
 ```
 
 ### Option B: Standalone Binaries
-Head over to the [Releases](https://github.com/your-username/ai-changelist/releases) page and download the auto-compiled executable for Windows, Linux, or macOS to run it entirely detached from a Python footprint!
+Head over to the [Releases] https://github.com/hasindu-ramanayake/releases) page and download the auto-compiled executable for Windows, Linux, or macOS to run it entirely detached from a Python footprint!
 
 ## 💻 Quick Usage Guide
 
