@@ -1,0 +1,13 @@
+PLAN.md
+pyproject.toml
+ai_changelist.egg-info/PKG-INFO
+ai_changelist.egg-info/SOURCES.txt
+ai_changelist.egg-info/dependency_links.txt
+ai_changelist.egg-info/entry_points.txt
+ai_changelist.egg-info/requires.txt
+ai_changelist.egg-info/top_level.txt
+src/cli.py
+src/commands/handler.py
+src/core/differ.py
+src/core/models.py
+src/core/repository.py
